@@ -1,4 +1,4 @@
-### **Encrypted-VPN-IoT **
+### **Encrypted-VPN-IoT**
 • Setting up an Encrypted VPN channelled infrastructure for IoT.  
 
 The proposed system also aims in building up three models 
