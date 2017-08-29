@@ -1,4 +1,4 @@
-# Encrypted-VPN-IoT
+### **Encrypted-VPN-IoT **
 • Setting up an Encrypted VPN channelled infrastructure for IoT.  
 
 The proposed system also aims in building up three models 
@@ -9,7 +9,8 @@ The proposed system also aims in building up three models
 
 • An Hybrid model in which higher order(in terms of processing speed and complexity) requests to be processed on the Raspberry-Pi and the requests with less overhead on the cloud.  
 
-The project aims in : 
+
+### **The project aims in :** 
 
 • Securing IoT M2M communication 
 
